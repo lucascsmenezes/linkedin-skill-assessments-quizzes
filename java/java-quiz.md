@@ -1,5 +1,7 @@
 ## Java
 
+## On the present date of 11/03/2022 the answers are not correct, I cannot say which ones because linkedin does not show which ones are correct.
+
 #### Q1. Given the string "strawberries" saved in a variable called fruit, what would `fruit.substring(2, 5)` return?
 
 - [ ] rawb

@@ -1,4 +1,5 @@
 ## Object-Oriented Programming (OOP)
+## this quiz is broken and needs to go through a re-evaluation
 
 #### Q1. What is an example of dynamic binding?
 
@@ -27,6 +28,7 @@
 - [ ] to explore a hypothetical class
 - [ ] to prevent unwanted method implementation
 - [ ] to reserve memory for an unspecified class type
+
 
 #### Q5. When does static binding happen?
 
